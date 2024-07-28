@@ -57,7 +57,7 @@
     },
     {
       "review_id": "123459",
-      "reviewer_name": "Carole",
+      "reviewer_name": "Bisleri",
       "content": "Wonderful\n\nWonderful",
       "raw_content": "Wonderful\n\nWonderful",
       "date": "17 Apr 2022",
@@ -87,8 +87,8 @@
     {
       "review_id": "1234512",
       "reviewer_name": "Cristina",
-      "content": "The best service ever! Never found before a staff so professional and kind like in Fushifaru.\n\nThe best service ever! Never found before a staff so professional and kind like in Fushifaru.",
-      "raw_content": "The best service ever! Never found before a staff so professional and kind like in Fushifaru.\n\nThe best service ever! Never found before a staff so professional and kind like in Fushifaru.",
+      "content": "The best service ever! Never found before a staff so professional and kind like in Fushifaru.The best service ever! Never found before a staff so professional and kind like in Fushifaru.",
+      "raw_content": "The best service ever! Never found before a staff so professional and kind like in Fushifaru.The best service ever! Never found before a staff so professional and kind like in Fushifaru.",
       "date": "03 Apr 2022",
       "rating_review_score": 10,
       "hotel_code": "ZMVLHIFF",
